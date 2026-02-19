@@ -18,9 +18,9 @@ window.SWT_CONTENT = {
   site: {
     title:       "Smile Welfare Trust — Every Child Deserves to Smile",
     orgName:     "Smile Welfare Trust",   // First word gets brand-colour highlight
-    regNumber:   "SWT/2012/DEL",
+    regNumber:   "SWTI/2012/DEL",
     certLabel:   "80G Certified",
-    established: "2012"
+    established: "2005"
   },
 
   // ── NAVIGATION ─────────────────────────────────────────────
@@ -45,10 +45,9 @@ window.SWT_CONTENT = {
     ctaPrograms:    "Our Programs",
     // ── Stats cards (add/remove cards freely) ──
     stats: [
-      { emoji: "📚", number: "2,400+", label: "Children Educated" },
-      { emoji: "🍎", number: "1,800+", label: "Meals Daily"       },
+      { emoji: "📚", number: "240+", label: "Children Educated" },
       { emoji: "🏥", number: "950+",   label: "Health Check-ups"  },
-      { emoji: "🤝", number: "320+",   label: "Volunteers"        }
+      { emoji: "🤝", number: "20+",   label: "Volunteers"        }
     ]
   },
 
@@ -66,7 +65,7 @@ window.SWT_CONTENT = {
     ],
     // ── Coloured visual panel on the left ──
     visualTagline: "Building Futures, One Child at a Time",
-    visualSub:     "Registered Non-Profit · Est. 2012 · 12+ Years of Service"
+    visualSub:     "Registered Non-Profit · Est. 2005 · 20+ Years of Service"
   },
 
   // ── PROGRAMS ───────────────────────────────────────────────
@@ -92,12 +91,12 @@ window.SWT_CONTENT = {
     subtitle: "Every rupee donated translates into real, measurable change in a child's life.",
     // ── Stat items (add/remove freely) ──
     stats: [
-      { number: "12+",    label: "Years of Service"    },
-      { number: "2,400+", label: "Children Supported"  },
+      { number: "20+",    label: "Years of Service"    },
+      { number: "240+", label: "Children Supported"  },
       { number: "18",     label: "Community Centers"   },
       { number: "650K+",  label: "Meals Served"        },
       { number: "94%",    label: "Funds to Programs"   },
-      { number: "320+",   label: "Active Volunteers"   }
+      { number: "20+",   label: "Active Volunteers"   }
     ]
   },
 
@@ -153,9 +152,9 @@ window.SWT_CONTENT = {
     eyebrow:        "Get in Touch",
     title:          "We'd Love to Hear From You",
     subtitle:       "Whether you want to donate, volunteer, or simply ask a question — reach out and our team will respond within 24 hours.",
-    address:        "123, Hope Street, New Delhi – 110001, India",
+    address:        "15 Dindigul Rd, Thirupatthur - 630211, India",
     phone:          "+91 98765 43210",
-    email:          "hello@smileWelfaretrust.org",
+    email:          "smilewelfaretrust@gamil.com",
     hours:          "Mon – Sat, 9 AM – 6 PM IST",
     formSubmitLabel: "Send Message →",
     formSuccessMsg:  "✓ Message Sent! We'll reply soon."
