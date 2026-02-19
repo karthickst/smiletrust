@@ -154,7 +154,7 @@ window.SWT_CONTENT = {
     subtitle:       "Whether you want to donate, volunteer, or simply ask a question — reach out and our team will respond within 24 hours.",
     address:        "15 Dindigul Rd, Thirupatthur - 630211, India",
     phone:          "+91 98765 43210",
-    email:          "smilewelfaretrust@gamil.com",
+    email:          "smilewelfaretrust@gmail.com",
     hours:          "Mon – Sat, 9 AM – 6 PM IST",
     formSubmitLabel: "Send Message →",
     formSuccessMsg:  "✓ Message Sent! We'll reply soon."
