@@ -108,7 +108,7 @@ window.SWT_CONTENT = {
     amounts:    ["₹500", "₹1,000", "₹2,500", "₹5,000"],
     defaultIdx: 1,    // 0 = first button, 1 = second, etc.
     ctaLabel:   "Donate Now — Secure & Tax Exempt",
-    donateUrl:  "https://www.paypal.com/donate/?business=smilewelfaretrust%40gmail.com&currency_code=USD",
+    donateUrl:  "https://www.paypal.com/send?recipient=smilewelfaretrust@gmail.com",
     // ── Trust badges below the donate button ──
     badges: [
       { icon: "🔒", label: "256-bit SSL Secured" },
